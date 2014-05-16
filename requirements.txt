@@ -1,0 +1,4 @@
+BeautifulSoup
+mysql-python
+pymemcache
+openpyxl
