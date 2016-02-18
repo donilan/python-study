@@ -2,3 +2,4 @@ BeautifulSoup
 mysql-python
 pymemcache
 openpyxl
+gevent==1.0.2
